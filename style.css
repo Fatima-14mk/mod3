@@ -1,0 +1,33 @@
+/* Customize the background color of the main content */
+.main-content {
+    background-color: #f5f5f5;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  /* Center align the page heading */
+  .page-heading {
+    text-align: center;
+    margin-top: 0;
+  }
+  
+  /* Style for menu items */
+  .menu-item {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for "Back to Top" link */
+  .back-to-top {
+    display: block;
+    text-align: right;
+    margin-top: 10px;
+  }
+  
+  /* Style for mobile menu button */
+  .navbar-toggle {
+    margin-right: 15px;
+  }
+  
+  
